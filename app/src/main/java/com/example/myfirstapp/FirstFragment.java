@@ -13,6 +13,11 @@ import com.example.myfirstapp.databinding.FragmentFirstBinding;
 // HELLO CAN YOU SEE THIS
 // THIS IS A TEST
 // SHRUTHI WAS HERE
+
+/* Hi this is Leticia and this is my really long comment
+
+Have a good day
+ */
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
